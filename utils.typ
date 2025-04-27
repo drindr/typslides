@@ -70,7 +70,7 @@
   set align(left + horizon)
   set page(footer: none)
 
-  text(40pt, weight: "bold")[#smallcaps(title)]
+  text(40pt, weight: "bold")[title]
 
   v(-.95cm)
 
